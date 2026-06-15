@@ -13,7 +13,7 @@ The recorded audio files were analyzed using ```numpy.fft.fft``` to obtain the f
 Then the peaks are identified using ```scipy.signal.find_peaks``` and plotted using.
 
 #### Measurement 1 20-05-2026
-![FFT of measurement 1](../../../Sound%20in%20Lab/fig/FFT_from_WAV.png)
+![FFT of measurement 1](../fig/FFT_from_WAV.png)
 
 <small>10 min. measurement</small>
 
@@ -21,7 +21,7 @@ On this day there were some problems with the scroll-pump which might have cause
 The measurement was taken ontop of the optical table, where the VECSEL is mounted.
 
 #### Measurement 2 12-06-2026
-![FFT of measurement 2](../../../Sound%20in%20Lab/fig/FFT_from_WAV_2.png)
+![FFT of measurement 2](../fig/FFT_from_WAV_2.png)
 
 <small>20 min. measurement</small>
 
