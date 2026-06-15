@@ -127,4 +127,4 @@ If problems come up in this regard, adding a brace might be a way to shift the f
 links:
 - [FEA](./sub/FEA.md)
 - [Sound in Lab](./sub/Sound_in_Lab.md)
-- [Further design choices]()
+- [Further design choices](./sub/further_design.md)
