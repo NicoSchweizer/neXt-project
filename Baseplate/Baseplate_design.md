@@ -48,7 +48,7 @@ To test this theory, I took the current design and simulated modal frequencies o
 I also took some data for predominant frequencies from an audio recording in the Lab. ([Notes](sub/Sound_in_Lab.md))
 
 <!-- ![FFT of sound in Lab](../../Sound%20in%20Lab/fig/FFT_from_WAV_side_by_side.png) -->
-<img src="../../Sound%20in%20Lab/fig/FFT_from_WAV_side_by_side.png" alt="FFT of sound in Lab" width="1000"/>
+<img src="./fig/FFT_from_WAV_side_by_side.png" alt="FFT of sound in Lab" width="1000"/>
 
 This measurement was taken because I wanted to think about what sound isolation to order, but it proved to be useful in this work as well.\
 The most interesting frequencies in these measurements are around 100 - 115 Hz, because they are the most dominant ones, and they are the hardest ones to isolate from.\
@@ -123,10 +123,3 @@ This will be my next job.
 
 The first modes of the baseplate with 2 braces might be close to some Lab-noise, but I can't see an obvious position of the VECSEL on the baseplate, in which this problem is improved.
 If problems come up in this regard, adding a brace might be a way to shift the frequencies to a different range, so that the feet can deal with them.
-
-
-
-
-
-
-
