@@ -1,0 +1,9 @@
+Color;Signal-name;Pin CH3 BRF;Pin CH4 Etalon;To VECSEL Pin
+Red;+TEC_CH4;;1;9
+White;-TEC_CH4;;3;8
+Brown;+sens_CH4;;7;10
+Green;-sens_CH4;;8;11
+Yellow;+TEC_CH3;1;;13
+Grey;-TEC_CH3;3;;12
+Pink;+sens_CH3;7;;14
+Blue;-sens_CH3;8;;15

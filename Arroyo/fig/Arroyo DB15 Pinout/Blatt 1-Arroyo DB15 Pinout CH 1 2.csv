@@ -1,0 +1,16 @@
+Pin-number;Signal-name;Color
+1;+TEC_1;Red
+2;+TEC_2;White
+3;-TEC_1;Green
+4;-TEC_2;Grey
+5;;
+6;;
+7;+sens;Pink
+8;-sens;Blue
+9;+TEC_3;Brown
+10;-TEC_3;Yellow 
+11;;
+12;;
+13;;
+14;;
+15;;
