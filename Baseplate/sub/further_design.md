@@ -28,3 +28,8 @@ Here I decided to add 2 more positions closer to the fixed edges, since the moda
 I wanted to try out positions with the long and short side closer to the edge, maybe there would be a difference in performance.
 
 This way I can test out different positions without compromising the structure of the baseplate too much.
+
+#### Mounting the baseplate to the Cart
+I added a third brace to the cart and placed the baseplate in the cart.\
+At the moment the baseplate is not fixed to the cart, but I'm thinking of ways to add mounts to the cart to hold the baseplate in place.\
+Only then will the simulation results be comparable to the actual setup.
