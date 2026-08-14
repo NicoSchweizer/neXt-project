@@ -1,0 +1,5 @@
+# Raw measurement data must be preserved byte for byte. Without this git
+# normalises CRLF to LF on commit, which rewrites the wavemeter and Arduino
+# files and breaks any checksum taken against the originals.
+*.lta -text
+*.csv -text

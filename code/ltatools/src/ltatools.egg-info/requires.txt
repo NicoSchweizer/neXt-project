@@ -1,0 +1,8 @@
+numpy
+pandas
+scipy
+matplotlib
+allantools>=2024.6
+
+[dev]
+pytest
